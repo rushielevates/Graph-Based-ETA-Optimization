@@ -1,0 +1,13 @@
+_dist_bin,route_type,median_actual_time,median_delay_ratio,trip_count
+0-20km,Carting,16.0,1.78,31212
+0-20km,FTL,18.0,2.0,9100
+20-50km,Carting,34.0,1.45,1457
+20-50km,FTL,33.0,1.64,65486
+50-100km,Carting,83.0,1.59,104
+50-100km,FTL,64.0,1.35,1963
+100-200km,Carting,271.0,3.14,5
+100-200km,FTL,124.0,1.11,65
+200-500km,Carting,646.0,4.58,1
+200-500km,FTL,594.0,1.96,11
+500-1000km,Carting,,,0
+500-1000km,FTL,737.0,1.67,4
