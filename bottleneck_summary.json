@@ -1,0 +1,8 @@
+worst_corridors:
+[{"source":"IND000000ACB","dest":"IND562132AAA","route_type":"FTL","median_delay_ratio":1.499999925},{"source":"IND562132AAA","dest":"IND000000ACB","route_type":"FTL","median_delay_ratio":1.5217390643},{"source":"IND000000ACB","dest":"IND712311AAA","route_type":"FTL","median_delay_ratio":1.7058822526},{"source":"IND000000ACB","dest":"IND421302AAG","route_type":"FTL","median_delay_ratio":1.5833332674},{"source":"IND421302AAG","dest":"IND000000ACB","route_type":"FTL","median_delay_ratio":1.6969696455}]
+worst_hubs:
+[{"facility":"IND000000ACB","sla_pct":6.8158337804,"betweenness":0.1126973412},{"facility":"IND562132AAA","sla_pct":3.2082783544,"betweenness":0.0563617271},{"facility":"IND421302AAG","sla_pct":3.0967042917,"betweenness":0.0291748545},{"facility":"IND712311AAA","sla_pct":2.0049872508,"betweenness":0.0353255671},{"facility":"IND160002AAC","sla_pct":1.948251311,"betweenness":0.0282043562}]
+worst_states:
+[{"source_state":"Meghalaya","median_delay":2.3437499268},{"source_state":"Arunachal Pradesh","median_delay":2.2857142041},{"source_state":"Bihar","median_delay":1.9999997143},{"source_state":"Assam","median_delay":1.9999996333},{"source_state":"Himachal Pradesh","median_delay":1.9483369873}]
+worst_time_slots:
+[{"cutoff_hour":14,"route_type":"Carting","median_delay":2.4305553191},{"cutoff_hour":8,"route_type":"Carting","median_delay":1.9999997143},{"cutoff_hour":9,"route_type":"Carting","median_delay":1.9999997143},{"cutoff_hour":6,"route_type":"Carting","median_delay":1.9999996667},{"cutoff_hour":4,"route_type":"Carting","median_delay":1.999999}]
